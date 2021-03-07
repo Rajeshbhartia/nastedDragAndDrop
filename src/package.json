@@ -1,0 +1,14 @@
+{
+  "name": "nested-dnd-folders-and-pages",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/vmm0nplz5y",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/icons": "4.5.1",
+    "react": "16.0.0",
+    "react-beautiful-dnd": "4.0.1",
+    "react-dom": "16.0.0"
+  }
+}
